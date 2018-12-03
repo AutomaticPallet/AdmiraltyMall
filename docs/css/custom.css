@@ -1,1 +1,7 @@
 /*! Place your custom styles here */
+
+element.style {
+}
+.bar .logo {
+    max-height: 3em;
+    max-width: none; 
